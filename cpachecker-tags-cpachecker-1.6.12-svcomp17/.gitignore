@@ -25,7 +25,6 @@
 /META-INF/MANIFEST.MF
 
 # /lib/
-/lib/java
 /lib/java-contrib
 /lib/java-benchmark
 
